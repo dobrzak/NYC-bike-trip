@@ -14,4 +14,6 @@ https://s3.amazonaws.com/tripdata/index.html
 ## Outcomes
 ### There are 4473 trips which takes longer than 30 minuts in the last month
 ### If we charge 0.2 USD for each trip over 30minuts we would have expected revenue of 954 USD
-### Please refer to the jupyter notebook to refer to the histogram of distances in the buckets
+### Histogram of the distances in the buckets
+![alt text](https://github.com/dobrzak/NYC-bike-trip/blob/main/image.png?raw=true)
+
